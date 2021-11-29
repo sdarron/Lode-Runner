@@ -1,0 +1,9 @@
+GET /5ef092d1efb5/4d1d9f749fd3/32e77280c420/RC34bae247bfb549b3b694b8a01606f823-source.min.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: https://www.microsoft.com/ru-ru/edge?form=MA13DL&OCID=MA13DL
+Accept-Language: ru,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: assets.adobedtm.com
+Connection: Keep-Alive
+

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: private, no-cache, proxy-revalidate, no-store
+Pragma: no-cache
+Content-Type: image/gif
+Last-Modified: Fri, 05 Nov 2021 17:19:23 GMT
+Accept-Ranges: bytes
+ETag: "f95a3e4769d2d71:0"
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+Set-Cookie: SM=C; domain=c1.microsoft.com; path=/; SameSite=None; Secure;
+Set-Cookie: MUID=15C1222432C762FA32F4329533156398; domain=.microsoft.com; expires=Wed, 07-Dec-2022 17:36:47 GMT; path=/; SameSite=None; Secure; Priority=High;
+Set-Cookie: SRM_I=15C1222432C762FA32F4329533156398; domain=c1.microsoft.com; expires=Wed, 07-Dec-2022 17:36:47 GMT; path=/; SameSite=None; Secure;
+Set-Cookie: ANONCHK=0; domain=c1.microsoft.com; expires=Fri, 12-Nov-2021 17:46:47 GMT; path=/; SameSite=None; Secure;
+Date: Fri, 12 Nov 2021 17:36:46 GMT
+Content-Length: 42
+

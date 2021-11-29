@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Length: 43
+Content-Type: image/gif
+Expires: 0
+MS-CV: M6FG5ZWWY0KW0WNX5PMZww.0
+X-Content-Type-Options: nosniff
+P3P: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"
+Date: Fri, 12 Nov 2021 17:36:35 GMT
+

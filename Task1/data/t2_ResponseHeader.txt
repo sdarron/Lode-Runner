@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=15552000
+Content-Length: 90518
+Content-Type: text/xml
+Last-Modified: Thu, 20 Feb 2020 01:30:24 GMT
+Set-Cookie: SUID=M; domain=.microsoft.com; expires=Sat, 13-Nov-2021 17:36:03 GMT; path=/; HttpOnly
+Set-Cookie: MUID=290E5C9EF0C96BBC04214C73F11B6A82; domain=.microsoft.com; expires=Wed, 07-Dec-2022 17:36:03 GMT; path=/; secure; SameSite=None
+Set-Cookie: MUIDB=290E5C9EF0C96BBC04214C73F11B6A82; expires=Wed, 07-Dec-2022 17:36:03 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=F=1&SID=38234B7DC9876332386F5B90C8556217; domain=.microsoft.com; path=/; HttpOnly
+Set-Cookie: _EDGE_V=1; domain=.microsoft.com; expires=Wed, 07-Dec-2022 17:36:03 GMT; path=/; HttpOnly
+X-SNR-Routing: 1
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 09639D71632A465E959704013C89308F Ref B: FRAEDGE1317 Ref C: 2021-11-12T17:36:03Z
+Date: Fri, 12 Nov 2021 17:36:03 GMT
+

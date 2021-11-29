@@ -1,0 +1,9 @@
+GET /iedomainsuggestions/ie11/suggestions.ru-RU HTTP/1.1
+Accept: */*
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Host: ieonline.microsoft.com
+Connection: Keep-Alive
+Cookie: _EDGE_S=F=1&SID=38234B7DC9876332386F5B90C8556217; AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg=1585540135%7CMCIDTS%7C18944%7CvVersion%7C4.4.0; MSCC=NR; _EDGE_V=1; SUID=M; MUID=290E5C9EF0C96BBC04214C73F11B6A82; mbox=session#da0be211e0ea4d0486c5700fe7d06612#1636740434; MUIDB=290E5C9EF0C96BBC04214C73F11B6A82
+

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: application/x-javascript
+ETag: "f4e4cf921eb1edef2ec7c21700c9232e:1636704004.548685"
+Last-Modified: Fri, 12 Nov 2021 08:00:04 GMT
+Server: AkamaiNetStorage
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1873
+Cache-Control: max-age=3600
+Expires: Fri, 12 Nov 2021 18:36:31 GMT
+Date: Fri, 12 Nov 2021 17:36:31 GMT
+Connection: keep-alive
+Access-Control-Allow-Origin: https://www.microsoft.com
+Timing-Allow-Origin: *
+

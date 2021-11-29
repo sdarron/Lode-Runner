@@ -1,0 +1,11 @@
+[t13]
+FileName1=t13_id.json
+URL1=https://dpm.demdex.net/id?d_visid_ver=4.4.0&d_fieldgroup=AAM&d_rtbd=json&d_ver=2&d_orgid=EA76ADE95776D2EC7F000101%40AdobeOrg&d_nsid=0&d_mid=10087304015404161719214454263321534986&ts=1636738633548
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_13.xml
+RequestHeaderFile=t13_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t13_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

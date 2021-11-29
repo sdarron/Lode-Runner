@@ -1,0 +1,10 @@
+GET /collect/v1/t.gif?ver='2.1'&name='Ms.Webi.PageUnload'&time='2021-11-12T17%3A37%3A36.754Z'&os='Windows'&appId='JS%3Aedgeconsumer'&-ver='1.0'&-impressionGuid='74705f04-affc-4b2c-974c-3070d67a2fc1'&-pageName='ru-ru%2Fedge'&*baseType='Ms.Content.PageUnload'&*dwellTime=66842&*scrollDepth='0%2F6393'&*vScrollOffset=0&*pageHeight=6393&*vpHeight=454&*pageLoadTime=31627&ext-app-env='prod'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.3.5'&ext-javascript-domain='www.microsoft.com'&ext-javascript-msfpc='GUID%3Ddafd5d2780004e359a27a17e28f3ae07%26HASH%3Ddafd%26LV%3D202111%26V%3D4%26LU%3D1636738595613'&ext-javascript-userConsent=true&ext-javascript-consentDetails='%7B%22Required%22%3Atrue%2C%22Analytics%22%3Atrue%2C%22SocialMedia%22%3Atrue%2C%22Advertising%22%3Atrue%7D'&ext-user-localId='t%3A15C1222432C762FA32F4329533156398'&$mscomCookies=false HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: https://www.microsoft.com/ru-ru/edge?form=MA13DL&OCID=MA13DL
+Accept-Language: ru,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: web.vortex.data.microsoft.com
+Connection: Keep-Alive
+Cookie: at_check=true; SRCHUID=V=2&GUID=163CB1A26A4541DEA2A8955E2A0576C0&dmnchg=1; AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg=1585540135%7CMCIDTS%7C18944%7CMCMID%7C10087304015404161719214454263321534986%7CMCAID%7CNONE%7CMCAAMLH-1637343454%7C6%7CMCAAMB-1637343454%7Cj8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI%7CMCOPTOUT-1636745854s%7CNONE%7CvVersion%7C4.4.0; SRCHD=AF=NOFORM; MSCC=NR; _EDGE_V=1; SUID=M; MUID=15C1222432C762FA32F4329533156398; mbox=session#da0be211e0ea4d0486c5700fe7d06612#1636740434; SRCHUSR=DOB=20211112; SRCHHPGUSR=SRCHLANG=ru; MC1=GUID=dafd5d2780004e359a27a17e28f3ae07&HASH=dafd&LV=202111&V=4&LU=1636738595613; MS0=0603f5e5f1c548a29cd6312ca734f07d; AMCVS_EA76ADE95776D2EC7F000101%40AdobeOrg=1
+

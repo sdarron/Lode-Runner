@@ -1,0 +1,12 @@
+OPTIONS /v2/track HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: dc.services.visualstudio.com
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+Origin: https://www.microsoft.com
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type, sdk-context
+Accept-Encoding: gzip, deflate
+

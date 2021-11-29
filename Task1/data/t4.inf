@@ -1,0 +1,11 @@
+[t4]
+FileName1=t4_RC34bae247bfb549b3b694b8a01606f823-source.min.html
+URL1=https://assets.adobedtm.com/5ef092d1efb5/4d1d9f749fd3/32e77280c420/RC34bae247bfb549b3b694b8a01606f823-source.min.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_4.xml
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,14 @@
+POST /v2/track HTTP/1.1
+Accept: */*
+Content-type: application/json
+Sdk-Context: appId
+Referer: https://www.microsoft.com/ru-ru/edge?form=MA13DL&OCID=MA13DL
+Accept-Language: ru,en-US;q=0.7,en;q=0.3
+Origin: https://www.microsoft.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: dc.services.visualstudio.com
+Content-Length: 1619
+Connection: Keep-Alive
+Cache-Control: no-cache
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 65004
+Cache-Control: private
+Content-Encoding: gzip
+Access-Control-Expose-Headers: Request-Context
+Request-Context: appId=cid-v1:3f2c0428-a8ea-4e1d-b366-5c47ee274156
+X-UA-Compatible: IE=Edge
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Date: Fri, 12 Nov 2021 17:36:04 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=9d3635139ab6649f453417d1e9047b7ed7a79b7bef031b04afeb6a2c58b33d4e;Path=/;HttpOnly;Secure;Domain=edgeconsumerwebsite.trafficmanager.net
+Set-Cookie: ARRAffinitySameSite=9d3635139ab6649f453417d1e9047b7ed7a79b7bef031b04afeb6a2c58b33d4e;Path=/;HttpOnly;SameSite=None;Secure;Domain=edgeconsumerwebsite.trafficmanager.net
+TLS_version: tls1.2
+Strict-Transport-Security: max-age=31536000
+X-RTag: RT
+

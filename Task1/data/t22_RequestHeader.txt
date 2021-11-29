@@ -1,0 +1,8 @@
+POST / HTTP/1.1
+Content-type: application/ocsp-request
+User-Agent: Mozilla/4.0 (Windows 10 10.0) Java/1.8.0_301
+Host: ocsp.digicert.com
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Connection: keep-alive
+Content-Length: 83
+

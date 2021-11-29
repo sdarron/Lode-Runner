@@ -1,0 +1,11 @@
+[t14]
+FileName1=t14_t.gif
+URL1=https://web.vortex.data.microsoft.com/collect/v1/t.gif?ver='2.1'&name='Ms.Webi.PageUnload'&time='2021-11-12T17%3A37%3A36.754Z'&os='Windows'&appId='JS%3Aedgeconsumer'&-ver='1.0'&-impressionGuid='74705f04-affc-4b2c-974c-3070d67a2fc1'&-pageName='ru-ru%2Fedge'&*baseType='Ms.Content.PageUnload'&*dwellTime=66842&*scrollDepth='0%2F6393'&*vScrollOffset=0&*pageHeight=6393&*vpHeight=454&*pageLoadTime=31627&ext-app-env='prod'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.3.5'&ext-javascript-domain='www.microsoft.com'&ext-javascript-msfpc='GUID%3Ddafd5d2780004e359a27a17e28f3ae07%26HASH%3Ddafd%26LV%3D202111%26V%3D4%26LU%3D1636738595613'&ext-javascript-userConsent=true&ext-javascript-consentDetails='%7B%22Required%22%3Atrue%2C%22Analytics%22%3Atrue%2C%22SocialMedia%22%3Atrue%2C%22Advertising%22%3Atrue%7D'&ext-user-localId='t%3A15C1222432C762FA32F4329533156398'&$mscomCookies=false
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t14_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

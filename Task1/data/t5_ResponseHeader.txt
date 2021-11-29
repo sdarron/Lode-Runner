@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=3600
+Content-Length: 16808
+Content-Type: application/octet-stream
+ETag: XwwzJtZj0Kv2uZZFDICZuEmVG4A=
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: SRCHD=AF=NOFORM; domain=.microsoft.com; expires=Sun, 12-Nov-2023 17:36:32 GMT; path=/
+Set-Cookie: SRCHUID=V=2&GUID=163CB1A26A4541DEA2A8955E2A0576C0&dmnchg=1; domain=.microsoft.com; expires=Sun, 12-Nov-2023 17:36:32 GMT; path=/
+Set-Cookie: SRCHUSR=DOB=20211112; domain=.microsoft.com; expires=Sun, 12-Nov-2023 17:36:32 GMT; path=/
+Set-Cookie: SRCHHPGUSR=SRCHLANG=ru; domain=.microsoft.com; expires=Sun, 12-Nov-2023 17:36:32 GMT; path=/
+Set-Cookie: _SS=SID=38234B7DC9876332386F5B90C8556217; domain=.microsoft.com; path=/
+X-SNR-Routing: 1
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 6D9E762E685A4D9F806DA74EDA07A897 Ref B: FRAEDGE1317 Ref C: 2021-11-12T17:36:32Z
+Date: Fri, 12 Nov 2021 17:36:32 GMT
+

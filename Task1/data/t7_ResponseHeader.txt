@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Length: 281
+Content-Type: application/javascript
+Expires: 0
+MS-CV: fwSdWhe7UkWfAgqo0nrkTQ.0
+X-Content-Type-Options: nosniff
+Set-Cookie: MC1=GUID=dafd5d2780004e359a27a17e28f3ae07&HASH=dafd&LV=202111&V=4&LU=1636738595613;Domain=.microsoft.com;Expires=Sat, 12 Nov 2022 17:36:35 GMT;Path=/;Secure;SameSite=None
+Set-Cookie: MS0=0603f5e5f1c548a29cd6312ca734f07d;Domain=.microsoft.com;Expires=Fri, 12 Nov 2021 18:06:35 GMT;Path=/;Secure;SameSite=None
+P3P: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"
+Date: Fri, 12 Nov 2021 17:36:35 GMT
+

@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Name, Content-Type, Accept, Sdk-Context
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 3600
+X-Content-Type-Options: nosniff
+Date: Fri, 12 Nov 2021 17:36:40 GMT
+Content-Length: 0
+

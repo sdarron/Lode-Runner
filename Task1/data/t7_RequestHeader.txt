@@ -1,0 +1,10 @@
+GET /collect/v1/t.js?ver='2.1'&name='Ms.Webi.PageView'&time='2021-11-12T17%3A36%3A29.924Z'&os='Windows'&appId='JS%3Aedgeconsumer'&-ver='1.0'&-impressionGuid='74705f04-affc-4b2c-974c-3070d67a2fc1'&-pageName='ru-ru%2Fedge'&-uri='https%3A%2F%2Fwww.microsoft.com%2Fru-ru%2Fedge%3Fform%3DMA13DL%26OCID%3DMA13DL'&-market='ru-ru'&-resHeight=864&-resWidth=1536&-pageTags='%7B%22metaTags%22%3A%7B%22env%22%3A%22prod%22%2C%22market%22%3A%22ru-ru%22%2C%22pageName%22%3A%22ru-ru%2Fedge%22%2C%22ver%22%3A%22ccStatus%3AMSCC%3ANR%22%7D%7D'&-behavior=0&*baseType='Ms.Content.PageView'&*cookieEnabled=true&*isJs=true&*title='%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B2%D0%B5%D0%B1-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%20Microsoft%20Edge%20%7C%20%D0%9C%D0%B0%D0%B9%D0%BA%D1%80%D0%BE%D1%81%D0%BE%D1%84%D1%82'&*isLoggedIn=false&*flashInstalled=false&ext-app-env='prod'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.3.5'&ext-javascript-domain='www.microsoft.com'&ext-javascript-userConsent=true&ext-javascript-consentDetails='%7B%22Required%22%3Atrue%2C%22Analytics%22%3Atrue%2C%22SocialMedia%22%3Atrue%2C%22Advertising%22%3Atrue%7D'&ext-user-localId='t%3A290E5C9EF0C96BBC04214C73F11B6A82'&$mscomCookies=false HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Host: web.vortex.data.microsoft.com
+Connection: Keep-Alive
+Referer: https://www.microsoft.com/ru-ru/edge?form=MA13DL&OCID=MA13DL
+Accept-Language: ru,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Cookie: at_check=true; SRCHUID=V=2&GUID=163CB1A26A4541DEA2A8955E2A0576C0&dmnchg=1; AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg=1585540135%7CMCIDTS%7C18944%7CvVersion%7C4.4.0; SRCHD=AF=NOFORM; MSCC=NR; _EDGE_V=1; SUID=M; MUID=290E5C9EF0C96BBC04214C73F11B6A82; mbox=session#da0be211e0ea4d0486c5700fe7d06612#1636740434; SRCHUSR=DOB=20211112; SRCHHPGUSR=SRCHLANG=ru
+

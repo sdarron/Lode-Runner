@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Length,Date,Transfer-Encoding
+Age: 265
+Cache-Control: public, max-age=1800
+Content-MD5: HdY95yzx9wIyQkVEGES+Ew==
+Content-Type: application/x-javascript
+Date: Fri, 12 Nov 2021 17:36:33 GMT
+Etag: 0x8D8E461DA1A5889
+Expires: Fri, 12 Nov 2021 18:06:33 GMT
+Last-Modified: Thu, 11 Mar 2021 07:46:59 GMT
+Server: ECAcc (wmi/FEB9)
+Vary: Accept-Encoding
+X-Cache: HIT
+x-ms-blob-type: BlockBlob
+x-ms-lease-status: unlocked
+x-ms-meta-lastmodified: 2020-10-01 19:31:04
+x-ms-request-id: 295d18da-b01e-001d-45eb-d7e5c9000000
+x-ms-version: 2009-09-19
+Content-Length: 22495
+
